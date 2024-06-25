@@ -1,3 +1,4 @@
+# Music Store Analysis
 # Introduction
 * The store has provided data across several tables,
 including "album.csv", "album2.csv", "artist.csv",
